@@ -1,7 +1,6 @@
-/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/lsb1/Models/Jobs.java
-/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/lsb1/Controllers/mainApi.java
-/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/lsb1/DTO/responseData.java
-/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/lsb1/Models/userData.java
-/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/lsb1/Models/Position.java
-/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/lsb1/Repos/userRepo.java
-/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/lsb1/Lsb1Application.java
+/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/domain/models/repos/ProductRepo.java
+/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/domain/dto/ResponseData.java
+/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/domain/models/entities/Category.java
+/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/domain/models/entities/Supplier.java
+/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/domain/DemoApiApplication.java
+/Users/ondifransb/2023/SpringBoot/lsb1/src/main/java/com/domain/models/entities/Product.java
